@@ -72,6 +72,6 @@ Recall= .58
 ## Summary:
 
   Based on results, the best models that were generated to predict the unbalanced classification problem of credit risk are the Balanced Random Forest Classifier and Ensemble AdaBoost Classifier due to their scores(Balanced, precision and recall ~ 1). But I would recommend the Ensemble AdaBoost Classifier due to its higher overall scores for a classification prediction.
-  My recommendation would be the Ensemble AdaBoost Classifier model due it it's higher overall scores.
+  My recommendation would be the Ensemble AdaBoost Classifier model due it it's higher overall scores. But in general observation was none of these results were accurate in predicting high-risk loans and the best was the Ensemble AdaBoost Classifier model if we were to choose one.
   
   
