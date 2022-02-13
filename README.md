@@ -27,23 +27,23 @@ F1 Score(Harmonic Mean) =2(Precision * Sensitivity)/(Precision + Sensitivity)
 
 ### Ensemble AdaBoost Classifier
 
-![Easy_Ensemble_AdaBoost_Classifier](Easy_Ensemble_AdaBoost_Classifier.PNG)
+![Easy_Ensemble_AdaBoost_Classifier](Images/Easy_Ensemble_AdaBoost_Classifier.PNG)
 
 ### Naive Random Oversampling w/ Logistic Regression
 
-![Naive_Random_Oversampling](Naive_Random_Oversampling.PNG)
+![Naive_Random_Oversampling](Images/Naive_Random_Oversampling.PNG)
 
 ### SMOTE Oversampling w/ Logistic Regression
 
-![SMOTE_Oversampling](SMOTE_Oversampling.PNG)
+![SMOTE_Oversampling](Images/SMOTE_Oversampling.PNG)
 
 ### ClusterCentroids Undersampling w/ Logistic Regression
 
-![Undersampling](Undersampling.PNG)
+![Undersampling](Images/Undersampling.PNG)
 
 ### Combination (Over and Under) Sampling w/ Logistic Regression
 
-![Combination_(Over_and_Under)_Sampling](Combination_(Over_and_Under)_Sampling.PNG)
+![Combination_(Over_and_Under)_Sampling](Images/Combination_(Over_and_Under)_Sampling.PNG)
 
 
 ## Summary:
