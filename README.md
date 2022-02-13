@@ -21,7 +21,7 @@ F1 Score(Harmonic Mean) =2(Precision * Sensitivity)/(Precision + Sensitivity)
 
 ### BalancedRandomForestClassifier
 
- ![Balanced_Random_Forest_Classifier](Balanced_Random_Forest_Classifier.png)
+![Balanced_Random_Forest_Classifier](Balanced_Random_Forest_Classifier.png)
  
  
 
