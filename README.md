@@ -23,27 +23,50 @@ F1 Score(Harmonic Mean) =2(Precision * Sensitivity)/(Precision + Sensitivity)
 
 ![Balanced_Random_Forest_Classifier](Images/Balanced_Random_Forest_Classifier.PNG)
  
- 
+Accuracy_score (r_squared)= .78
+Precision= .99
+Recall= .87
 
 ### Ensemble AdaBoost Classifier
 
 ![Easy_Ensemble_AdaBoost_Classifier](Images/Easy_Ensemble_AdaBoost_Classifier.PNG)
 
+Accuracy_score (r_squared)= .91
+Precision= .99
+Recall= .90
+
 ### Naive Random Oversampling w/ Logistic Regression
 
 ![Naive_Random_Oversampling](Images/Naive_Random_Oversampling.PNG)
+
+Accuracy_score (r_squared)= .64
+Precision= .99
+Recall= .60
 
 ### SMOTE Oversampling w/ Logistic Regression
 
 ![SMOTE_Oversampling](Images/SMOTE_Oversampling.PNG)
 
+Accuracy_score (r_squared)= .66
+Precision= .99
+Recall= .69
+
 ### ClusterCentroids Undersampling w/ Logistic Regression
 
 ![Undersampling](Images/Undersampling.PNG)
 
+Accuracy_score (r_squared)= .54
+Precision= .99
+Recall= .40
+
 ### Combination (Over and Under) Sampling w/ Logistic Regression
 
 ![Combination_(Over_and_Under)_Sampling](Images/Combination_(Over_and_Under)_Sampling.PNG)
+
+Accuracy_score (r_squared)= .63
+Precision= .99
+Recall= .58
+
 
 
 ## Summary:
